@@ -17,6 +17,7 @@ public class ClientCode
 		
 		 do // looping of menu
 		 {
+			System.out.println("\n\n** commited on git **");
     		 System.out.println("\n\n**************** CAR LOAN SERVICES ****************");
 			 System.out.println("----------MENU---------\n1.Register(first register)\n2.Apply for Loan\n"
 			 		+ "3.EMI details(check details before payments)\n4.EMI Payment\n5.Balance Enqiry\n6.Exit\n-----------------------");
